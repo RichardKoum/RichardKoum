@@ -18,5 +18,4 @@
 
 [twitter]: https://twitter.com/Richard
 [instagram]: https://www.instagram.com/Richard
-[linkedin]: https://linkedin.com/in/Richard
-
+[linkedin]: https://www.linkedin.com/in/richard-koum-670ba7379/
