@@ -3,19 +3,19 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/RichardKoum/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/RichardKoum/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/RichardKoum/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation from scratch](https://github.com/RichardKoum/osticket-prereqs)
+    
+    
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RichardKoum/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RichardKoum/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs, Deploying AD and creating Users with PowerShell](https://github.com/RichardKoum/configure-ad)
+  - [Network Files Shares and Permissions(https://github.com/RichardKoum/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Richard
-[instagram]: https://www.instagram.com/Richard
+[<img align="left" alt="Richard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
 [linkedin]: https://www.linkedin.com/in/richard-koum-670ba7379/
