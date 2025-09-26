@@ -8,7 +8,7 @@
     
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs, Deploying AD and creating Users with PowerShell](https://github.com/RichardKoum/configure-ad)
-  - [Network Files Shares and Permissions(https://github.com/RichardKoum/azure-network-protocols)
+  - [Network Files Shares and Permissions](https://github.com/RichardKoum/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
