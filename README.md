@@ -7,8 +7,8 @@
     
     
 - <b>Microsoft Azure</b>
-  - 1-[Configuring Active Directory from scratch within Azure VMs and creating Users with PowerShell](https://github.com/RichardKoum/configure-ad)
-  - 2-[Network Files Shares and Permissions using Active Directory of LAB 1 above](https://github.com/RichardKoum/azure-network-protocols)
+  - 1- [Configuring Active Directory from scratch within Azure VMs and creating Users with PowerShell](https://github.com/RichardKoum/configure-ad)
+  - 2- [Network Files Shares and Permissions using Active Directory of LAB 1 above](https://github.com/RichardKoum/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
